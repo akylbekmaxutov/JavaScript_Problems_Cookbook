@@ -5,3 +5,4 @@ Welcome to a diverse set of JavaScript problems designed to sharpen your coding 
 ## Table of Contents
 1. [**Very-very basics**](Chapter1.md)
 2. [**Data/Code organization and iteration**](Chapter2.md)
+3. [**Practice basics one more time**](Chapter3.md)
